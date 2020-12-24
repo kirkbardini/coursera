@@ -1,0 +1,10 @@
+p {
+    color: aquamarine;
+}
+
+a:hover {
+    font-weight:300;
+    font-size: large;
+    text-transform: lowercase;
+
+}
